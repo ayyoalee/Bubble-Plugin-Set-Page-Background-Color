@@ -1,0 +1,14 @@
+{
+    "categories": {
+        "0": "mobile",
+        "1": "technical",
+        "2": "media"
+    },
+    "demo_page": "https://pluginsbyalex.bubbleapps.io/set-page-background-color",
+    "description": "To color your page background beyond the top and bottom edges of your page. This applies to some browsers, (like Chrome on Mac/iPhone, Safari/Firefox on iPhone).  For example, you could have a green header on your page or your page might have gray background color — since some browsers allow you to scroll beyond the top and bottom of the page, an awkward white background can show up beyond those edges.",
+    "image": "//s3.amazonaws.com/appforest_uf/f1574293753839x348466070264507900/Screen%20Shot%202019-11-20%20at%203.48.59%20PM.png",
+    "license": "open_source",
+    "link": "pluginsbyalex.bubbleapps.io",
+    "name": "Set Page Background Color",
+    "plugin_instructions": "You can set your page background color using an Element on the page, or an action. \n\nBoth the element and the action have an input called \"Background Color.\" You can customize the color of the background (beyond the top and bottom of your page) by entering the hex color code in this input.\n\nExample in run mode: https://pluginsbyalex.bubbleapps.io/set-page-background-color"
+}

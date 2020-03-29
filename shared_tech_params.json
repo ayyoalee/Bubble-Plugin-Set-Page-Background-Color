@@ -1,0 +1,11 @@
+{
+    "assets": {
+        "AAG": {
+            "name": "icon",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1574293173515x310730730182006800/Screen%20Shot%202019-11-20%20at%203.39.12%20PM.png"
+        }
+    },
+    "dependencies": {
+        "use_jquery": true
+    }
+}

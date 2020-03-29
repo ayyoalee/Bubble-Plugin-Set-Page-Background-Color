@@ -1,0 +1,13 @@
+{
+    "category": "plugins",
+    "display": "Color the Background",
+    "fields": {
+        "AAE": {
+            "caption": "Background Color",
+            "editor": "Color",
+            "name": "color",
+            "rank": 0
+        }
+    },
+    "type": "client_side"
+}

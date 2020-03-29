@@ -1,0 +1,22 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 25,
+        "width": 25
+    },
+    "display": "Background Colorer",
+    "fields": {
+        "AAF": {
+            "caption": "Background Color",
+            "default_val": "rgba(168, 168, 168, 1)",
+            "editor": "Color",
+            "name": "color",
+            "rank": 0
+        }
+    },
+    "icon": "ion-ios-color-wand",
+    "property_applications": {
+        "resizable": false
+    }
+}
